@@ -1,0 +1,8 @@
+Enter an integer: 3
+The double of 3 is 6
+Enter an integer: 5
+The double of 5 is 10
+Enter an integer: 6
+The double of 6 is 12
+Enter an integer:
+Traceback (most recent call last):
