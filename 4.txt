@@ -6,4 +6,4 @@ Enter an integer: 6
 The double of 6 is 12
 Enter an integer:
 Traceback (most recent call last):
-cdbhjsbjisdabnvhjkdsabvjhdabvhjabd
+123456789
